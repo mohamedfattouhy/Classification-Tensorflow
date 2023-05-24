@@ -1,0 +1,11 @@
+tensorflow
+numpy
+pandas
+matplotlib
+tensorflow 
+pandas_profiling
+imblearn
+sklearn
+webbrowser
+pathlib
+os
